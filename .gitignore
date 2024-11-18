@@ -2,4 +2,6 @@
 printer-*.cfg
 gcodes-*.zip
 moonraker.secrets
-.moonraker.conf.bkp
+.moonraker
+.conf
+.bkp
