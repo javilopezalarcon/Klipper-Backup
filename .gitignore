@@ -1,2 +1,4 @@
-.moonraker.conf.bkp
+3dwork-klipper
 printer-*.cfg
+gcodes-*.zip
+moonraker.secrets
