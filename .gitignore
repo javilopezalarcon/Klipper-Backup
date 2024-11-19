@@ -1,7 +1,3 @@
 3dwork-klipper
 printer-*.cfg
 gcodes-*.zip
-moonraker.secrets
-.moonraker
-
-.bkp
