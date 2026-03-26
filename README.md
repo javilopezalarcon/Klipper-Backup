@@ -101,6 +101,14 @@ This printer is monitored and controlled from Home Assistant via the [Moonraker 
 
 ---
 
+## ☕ Buy me a coffee
+
+If this saved you time and you feel like it, a coffee is always welcome — but absolutely no pressure.
+
+[→ paypal.me/javilopez83](https://www.paypal.me/javilopez83)
+
+---
+
 ## 📄 License
 
 MIT — reference and adapt freely.
